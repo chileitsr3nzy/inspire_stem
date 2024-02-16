@@ -1,0 +1,7 @@
+print("my name is renish")
+print("i am 18 years old")
+print("i come from Nairobi")
+print("i love listening to music")
+print("---------")
+print("*********")
+print("#########")
