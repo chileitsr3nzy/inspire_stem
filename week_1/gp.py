@@ -2,15 +2,12 @@
 #Date : 20/02/2024
 #Name : Renish Nkirote 
 
-a = int(input("enter the first term: "))
-r = int(input("enter the common ration: "))
-n = int(input("enter the number of the terms: "))
+a = float(input("enter the first term: "))
+r = float(input("enter the common ration: "))
+n = float(input("enter the number of the terms: "))
 
-sum = 0
-term = a
 
-for i in range(n):
-    print(term, end=" ")
-    sum+= term
-    term*= r 
-    print("\n the sum of the geometri progression is",sum)
+term = a * (r**(n-1))
+print("the term",term)
+
+
