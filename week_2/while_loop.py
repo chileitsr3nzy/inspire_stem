@@ -8,11 +8,20 @@ for name in range(0,5):
     print("\t")
     print("Renish Nkirote")
 
-    number = 20
-    for i in range (1, number) :
-        while i < number:
-            print(i)
-    
-        print(i)
+x = 1
+while x < 10  :
+
+        #if x == 5:
+             # break
+              
+        if x == 6:
+              continue
+        x = x+1
+        print(x) 
+
+x=2 #ineger
+h = 6.89807 # float
+print(float(x))
+print(int(h))
 
 
