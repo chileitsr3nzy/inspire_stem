@@ -1,0 +1,32 @@
+<style>
+    section{
+        background-color:gray;
+        color:blanchedalmond;
+        margin: 100px;
+        padding: 50px;
+
+
+}
+img{
+    width:7cm;
+    height: 3cm;
+
+}
+.header-1{
+    color: aquamarine;
+
+}
+.ball{
+    background-color: blueviolet;
+    height: 100px; 
+    width: 100px;
+    border-radius :50%;
+}
+body{
+    margin:0;
+    padding:0 ;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
