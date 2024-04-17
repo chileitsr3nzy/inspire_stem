@@ -28,7 +28,3 @@ print(number_of_items)
 print("\n")
 total_movies=len(Movies)
 print("The total number of movies available is:", total_movies)
-
-
-
-
